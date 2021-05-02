@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <style>
+            body{
+                background-color: gray;
+            }
+            #NETWORK{
+                white-space: pre;
+                font-size: 50px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                background-color: white;
+            }
+            #X{
+                white-space: pre;
+                font-size: 50px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                background-color: black;
+                color: white;
+            }
+            p{
+                text-align:center;
+                font-size: 32px
+            }
+        </style>
+    </head>
+    <body>
+        <div ID="LOGO"><p1 ID="X"> X </p1><p1 ID=NETWORK> NETWORK </p1></div>
+        <p ID="INFO">IP SERWERA: xnetwork.aternos.me<br>status: Offline</p>
+    </body>
+</html>
